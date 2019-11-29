@@ -1,0 +1,7 @@
+/**
+ * AnswerWedding
+ */
+public class AnswerWedding {
+
+    
+}

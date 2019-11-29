@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SaveStudentOrder<05-java_2ce14041>",
+            "request": "launch",
+            "mainClass": "SaveStudentOrder",
+            "projectName": "05-java_2ce14041"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentOrderdValidator<05-java_2ce14041>",
+            "request": "launch",
+            "mainClass": "StudentOrderdValidator",
+            "projectName": "05-java_2ce14041"
+        }
+    ]
+}
